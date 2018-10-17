@@ -1,0 +1,28 @@
+<!DOCTYPE RCC><RCC version="1.0">
+    <qresource prefix="/translations">
+        <file alias="bg">locale/rim_bg.qm</file>
+        <file alias="ca">locale/rim_ca.qm</file>
+        <file alias="cs">locale/rim_cs.qm</file>
+        <file alias="da">locale/rim_da.qm</file>
+        <file alias="de">locale/rim_de.qm</file>
+        <file alias="en">locale/rim_en.qm</file>
+        <file alias="en_US">locale/rim_en_US.qm</file>
+        <file alias="es">locale/rim_es.qm</file>
+        <file alias="fi">locale/rim_fi.qm</file>
+        <file alias="fr_FR">locale/rim_fr_FR.qm</file>
+        <file alias="it">locale/rim_it.qm</file>
+        <file alias="ja">locale/rim_ja.qm</file>
+        <file alias="ko_KR">locale/rim_ko_KR.qm</file>
+        <file alias="nl">locale/rim_nl.qm</file>
+        <file alias="pl">locale/rim_pl.qm</file>
+        <file alias="pt">locale/rim_pt.qm</file>
+        <file alias="pt_BR">locale/rim_pt_BR.qm</file>
+        <file alias="ro_RO">locale/rim_ro_RO.qm</file>
+        <file alias="ru">locale/rim_ru.qm</file>
+        <file alias="sk">locale/rim_sk.qm</file>
+        <file alias="sv">locale/rim_sv.qm</file>
+        <file alias="uk">locale/rim_uk.qm</file>
+        <file alias="zh_CN">locale/rim_zh_CN.qm</file>
+        <file alias="zh_TW">locale/rim_zh_TW.qm</file>
+    </qresource>
+</RCC>
