@@ -1,0 +1,6 @@
+usr/local/bin/iox-qt usr/bin
+share/pixmaps/bitcoin32.xpm usr/share/pixmaps
+share/pixmaps/bitcoin16.xpm usr/share/pixmaps
+share/pixmaps/bitcoin128.png usr/share/pixmaps
+debian/iox-qt.desktop usr/share/applications
+debian/iox-qt.protocol usr/share/kde4/services/

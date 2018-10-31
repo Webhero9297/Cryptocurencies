@@ -1,0 +1,26 @@
+# /etc/conf.d/ioxd: config file for /etc/init.d/ioxd
+
+# Config file location
+#BITCOIND_CONFIGFILE="/etc/iox/iox.conf"
+
+# What directory to write pidfile to?  (created and owned by $BITCOIND_USER)
+#BITCOIND_PIDDIR="/var/run/ioxd"
+
+# What filename to give the pidfile
+#BITCOIND_PIDFILE="${BITCOIND_PIDDIR}/ioxd.pid"
+
+# Where to write ioxd data (be mindful that the blockchain is large)
+#BITCOIND_DATADIR="/var/lib/ioxd"
+
+# User and group to own ioxd process
+#BITCOIND_USER="iox"
+#BITCOIND_GROUP="iox"
+
+# Path to ioxd executable
+#BITCOIND_BIN="/usr/bin/ioxd"
+
+# Nice value to run ioxd under
+#BITCOIND_NICE=0
+
+# Additional options (avoid -conf and -datadir, use flags above)
+BITCOIND_OPTS=""
